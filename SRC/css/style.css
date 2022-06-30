@@ -1,9 +1,27 @@
 .logo{
-    width: 200px;
+    width: 180px;
 }
 
 .img-carousel{
     height: 550px;
     object-fit: cover;
     object-position: 0 20%;
+}
+
+.card-largura{
+    width: 18rem;
+
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: justify;
+}
+
+.img-produto{
+    height: 200px;
+    object-fit: cover;
+    
 }
